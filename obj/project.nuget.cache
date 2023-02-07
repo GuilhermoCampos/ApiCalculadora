@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pv67R0FbXu6VToP6aHJ0u+64pNKRU5BLXL+aqJMcYu0CgO+Q/g58JQG+9noOQTMO3gcAlHUy0zE5KpeuERbxyQ==",
+  "success": true,
+  "projectFilePath": "/home/guilhermo/Documentos/programas/dotnet/ApiDotnetCalculadora/ApiDotnetCalculadora.csproj",
+  "expectedPackageFiles": [
+    "/home/guilhermo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/guilhermo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/guilhermo/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/guilhermo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/guilhermo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/guilhermo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
